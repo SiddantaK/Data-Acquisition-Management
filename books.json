@@ -1,0 +1,29 @@
+[
+    {
+      "title": "The Chronicles of Narnia",
+      "authors": [{"writer":"C.S. Lewis","illustrator":"Pauline Baynes (Illustrator)"}],
+      "publish date": "09/16/02 ",
+      "isbn": "9999999999999",
+      "rating": "4.26",
+      "description": "Journeys to the end of the world, fantastic creatures, and epic battles between good and evil—what more could any reader ask for in one book? The book that has it all is The Lion, the Witch and the Wardrobe, written in 1949 by Clive Staples Lewis. But Lewis did not stop there. Six more books followed, and together they became known as The Chronicles of Narnia.For the past fifty years, The Chronicles of Narnia have transcended the fantasy genre to become part of the canon of classic literature. Each of the seven books is a masterpiece, drawing the reader into a land where magic meets reality, and the result is a fictional world whose scope has fascinated generations.This edition presents all seven books—unabridged—in one impressive volume. The books are presented here in chronlogical order, each chapter graced with an illustration by the original artist, Pauline Baynes. Deceptively simple and direct, The Chronicles of Narnia continue to captivate fans with adventures, characters, and truths that speak to readers of all ages, even fifty years after they were first published.",
+      "pages": "767"
+    },
+    {
+      "title": "Harry Potter and the Order of the Phoenix",
+      "authors": [{"writer":"J.K. Rowling"}],
+      "publish date": "09/28/04",
+      "isbn": "9780439358071",
+      "rating": "4.50",
+      "description": "There is a door at the end of a silent corridor. And it’s haunting Harry Pottter’s dreams. Why else would he be waking in the middle of the night",
+      "pages": "870"
+    },
+    {
+      "title": "The Alchemist",
+      "authors": [{"writer":"Paulo Coelho","illustrator":"Alan R. Clarke"}],
+      "publish date": "04/15/14",
+      "isbn":"9780062315007",
+      "rating": "3.88",
+      "description": "Paulo Coelho's enchanting novel has inspired a devoted following around the world. This story, dazzling in its powerful simplicity and soul-stirring wisdom, is about an Andalusian shepherd boy named Santiago who travels from his homeland in Spain to the Egyptian desert in search of a treasure buried near the Pyramids. Along the way he meets a Gypsy woman, a man who calls himself king, and an alchemist, all of whom point Santiago in the direction of his quest. No one knows what the treasure is, or if Santiago will be able to surmount the obstacles in his path. But what starts out as a journey to find worldly goods turns into a discovery of the treasure found within. Lush, evocative, and deeply humane, the story of Santiago is an eternal testament to the transforming power of our dreams and the importance of listening to our hearts.Illustration: Jim Tierney",
+      "pages": "182"
+    }
+  ]
